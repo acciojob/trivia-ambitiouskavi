@@ -11,6 +11,6 @@ blockquote{
     font-weight:bold;
 
 }
-label{
+label,p{
     font-weight:bold;
 }
