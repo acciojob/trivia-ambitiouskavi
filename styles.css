@@ -8,8 +8,8 @@ blockquote{
     border-left-style:solid;
     border-left-color:green;
     background-color:#f8fffe;
-    
+    font-weight:bold;
 }
-p{
+label{
     font-weight:bold;
 }
